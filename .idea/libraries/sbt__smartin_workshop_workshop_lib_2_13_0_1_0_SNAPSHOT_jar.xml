@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: smartin-workshop:workshop-lib_2.13:0.1.0-SNAPSHOT:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.cloudfarms.online/repository/maven-workshop/smartin-workshop/workshop-lib_2.13/0.1.0-SNAPSHOT/workshop-lib_2.13-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repository.cloudfarms.online/repository/maven-workshop/smartin-workshop/workshop-lib_2.13/0.1.0-SNAPSHOT/workshop-lib_2.13-0.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
